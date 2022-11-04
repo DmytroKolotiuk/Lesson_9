@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+.page {
+	font-family: 'Lato', sans-serif;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.page__title {
+	font-size: 50px;
+	font-weight: 700;
+	text-align: center;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.content__list-one {
+	font-size: 20px;
+	font-weight: 700;
+	color: red;
+}
+
+.content__list-two {
+	font-size: 20px;
+	font-weight: 700;
+	color: green;
+}
+
+.content__list-three {
+	font-size: 20px;
+	font-weight: 700;
+	color: blue;
+}
